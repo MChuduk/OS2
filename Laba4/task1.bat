@@ -1,0 +1,1 @@
+start E:\OS\Laba4\sysvar.vbs
